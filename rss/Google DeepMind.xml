@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>谷歌 DeepMind 新闻</title>
+    <link>https://deepmind.google/blog/</link>
+    <description>阅读 DeepMind 的最新文章和故事，了解更多关于我们在尖端人工智能研究方面的最新突破。</description>
+    <lastBuildDate>Fri, 26 Jun 2026 09:52:20 GMT</lastBuildDate>
+    <item>
+      <title>Gemini 3.5 Flash 中电脑使用介绍</title>
+      <link>https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/</guid>
+      <pubDate>Wed, 24 Jun 2026 16:30:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过人工智能加速规划解锁英国房屋建设</title>
+      <link>https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/</link>
+      <description><![CDATA[英国政府与 Google DeepMind 合作构建了一个新的人工智能原型，旨在更快地做出住房决策。]]></description>
+      <guid>https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/</guid>
+      <pubDate>Tue, 16 Jun 2026 21:29:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>确保人工智能代理的未来</title>
+      <link>https://deepmind.google/blog/securing-the-future-of-ai-agents/</link>
+      <description><![CDATA[通过人工智能控制路线图，结合传统保护措施和实时监控来保护内部系统。]]></description>
+      <guid>https://deepmind.google/blog/securing-the-future-of-ai-agents/</guid>
+      <pubDate>Tue, 16 Jun 2026 15:46:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>DiffusionGemma：文本生成速度提高 4 倍</title>
+      <link>https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/</guid>
+      <pubDate>Wed, 10 Jun 2026 16:24:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>投资多智能体人工智能安全研究</title>
+      <link>https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/</link>
+      <description><![CDATA[Google DeepMind 及其合作伙伴宣布筹集 1000 万美元资金用于多智能体安全研究。]]></description>
+      <guid>https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/</guid>
+      <pubDate>Wed, 10 Jun 2026 10:21:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Gemini 3.5 实时翻译进行流畅、自然的语音翻译</title>
+      <link>https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/</link>
+      <description><![CDATA[Gemini 3.5 Live Translate 为 Google AI Studio、Google Translate 和 Google Meet 带来近乎实时、自然的语音翻译。]]></description>
+      <guid>https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/</guid>
+      <pubDate>Tue, 09 Jun 2026 15:16:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gemma 4 12B 简介：统一、无编码器的多模态模型</title>
+      <link>https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/</guid>
+      <pubDate>Tue, 09 Jun 2026 14:10:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>为欧洲机器人技术的未来提供动力</title>
+      <link>https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/</guid>
+      <pubDate>Tue, 09 Jun 2026 14:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>衡量人工智能学习对塞拉利昂及其他地区的影响</title>
+      <link>https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/</link>
+      <description><![CDATA[随机对照试验的结果显示了 Gemini 的引导学习功能在提高参与度和加速学习方面的潜力。]]></description>
+      <guid>https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/</guid>
+      <pubDate>Mon, 08 Jun 2026 13:04:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们将在亚太地区启动 Google DeepMind Accelerator 计划，以应对环境风险</title>
+      <link>https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/</guid>
+      <pubDate>Thu, 21 May 2026 19:46:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>快速追踪基因可逆转细胞衰老</title>
+      <link>https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/</link>
+      <description><![CDATA[生物学家利用 Co-Scientist 来寻找能够成功恢复人类细胞活力的新因子。]]></description>
+      <guid>https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/</guid>
+      <pubDate>Mon, 18 May 2026 18:21:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Project Genie 和街景模拟现实世界的地方</title>
+      <link>https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/</link>
+      <description><![CDATA[我们正在扩大对全球 Google AI Ultra 订阅者的访问范围，并推出由街景支持的新功能。]]></description>
+      <guid>https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/</guid>
+      <pubDate>Sun, 17 May 2026 19:53:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>双子座 Omni 简介</title>
+      <link>https://deepmind.google/blog/introducing-gemini-omni/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://deepmind.google/blog/introducing-gemini-omni/</guid>
+      <pubDate>Sun, 17 May 2026 19:50:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌反重力2.0简介</title>
+      <link>https://deepmind.google/blog/introducing-google-antigravity-2-0/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://deepmind.google/blog/introducing-google-antigravity-2-0/</guid>
+      <pubDate>Sun, 17 May 2026 19:43:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gemini for Science：新发现时代的人工智能实验和工具</title>
+      <link>https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/</link>
+      <description><![CDATA[一系列科学工具和实验，旨在扩大科学探索的规模和精度。]]></description>
+      <guid>https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/</guid>
+      <pubDate>Sun, 17 May 2026 13:50:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>更容易理解内容的创建和编辑方式</title>
+      <link>https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/</link>
+      <description><![CDATA[我们正在扩展我们的工具，以帮助您了解如何在网络上创建和编辑内容。]]></description>
+      <guid>https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/</guid>
+      <pubDate>Sun, 17 May 2026 13:43:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>加强新​​加坡的人工智能未来：新的国家伙伴关系</title>
+      <link>https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/</link>
+      <description><![CDATA[Google DeepMind 与新加坡合作，应用前沿人工智能来应对健康、教育和可持续发展等领域的复杂挑战。]]></description>
+      <guid>https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/</guid>
+      <pubDate>Sat, 16 May 2026 09:13:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找新传染病背后的分子开关</title>
+      <link>https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/</link>
+      <description><![CDATA[克莱尔·布莱恩特 (Clare Bryant) 利用联合科学家来识别新发传染病的遗传触发因素。]]></description>
+      <guid>https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/</guid>
+      <pubDate>Sat, 16 May 2026 08:16:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>开辟衰老研究新途径</title>
+      <link>https://deepmind.google/blog/opening-new-paths-in-aging-research/</link>
+      <description><![CDATA[Calico Life Sciences 使用联合科学家将分散的发现联系起来，并在衰老研究中产生新的线索。]]></description>
+      <guid>https://deepmind.google/blog/opening-new-paths-in-aging-research/</guid>
+      <pubDate>Sat, 16 May 2026 08:08:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>加速发现肝病机制</title>
+      <link>https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/</link>
+      <description><![CDATA[Filippo Menolascina 利用联合科学家来确定新的肝病治疗方法，并解释为什么现有药物只能帮助某些患者。]]></description>
+      <guid>https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/</guid>
+      <pubDate>Sat, 16 May 2026 08:00:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>联合生物工具包寻找治疗 ALS 的新方法</title>
+      <link>https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/</link>
+      <description><![CDATA[联合科学家联合波士顿儿童医院和麻省理工学院的实验室探索基于 RNA 的 ALS 新疗法。]]></description>
+      <guid>https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/</guid>
+      <pubDate>Sat, 16 May 2026 07:53:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>发现抗肝纤维化的新用途药物</title>
+      <link>https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/</link>
+      <description><![CDATA[斯坦福大学遗传学家利用联合科学家帮助寻找慢性肝病和肝纤维化的新疗法。]]></description>
+      <guid>https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/</guid>
+      <pubDate>Sat, 16 May 2026 07:40:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>WeatherNext 如何帮助国家飓风中心更好地预测飓风梅丽莎历史性登陆牙买加</title>
+      <link>https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/</link>
+      <description><![CDATA[了解我们的 WeatherNext AI 模型如何帮助预报员为社区提供前所未有的时间，为历史性飓风梅丽莎做好准备。]]></description>
+      <guid>https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/</guid>
+      <pubDate>Sat, 16 May 2026 03:14:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gemini 3.5：前沿情报与行动</title>
+      <link>https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/</link>
+      <description><![CDATA[Gemini 3.5 旨在帮助您执行复杂、代理的工作流程。]]></description>
+      <guid>https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/</guid>
+      <pubDate>Fri, 15 May 2026 22:50:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>联合科学家：加速研究的多智能体人工智能合作伙伴</title>
+      <link>https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/</link>
+      <description><![CDATA[隆重推出 Co-Scientist，这是与 Gemini 合作建立的人工智能合作伙伴，旨在帮助研究人员加速科学突破。]]></description>
+      <guid>https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/</guid>
+      <pubDate>Tue, 12 May 2026 14:40:07 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

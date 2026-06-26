@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>拥抱脸 - 博客</title>
+    <link>https://huggingface.co/blog</link>
+    <description>拥抱脸博客</description>
+    <lastBuildDate>Fri, 26 Jun 2026 09:52:25 GMT</lastBuildDate>
+    <item>
+      <title>通过一个命令在 HF 作业上运行 vLLM 服务器</title>
+      <link>https://huggingface.co/blog/vllm-jobs</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/vllm-jobs</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>混合模型可以更好地预测哪些标记？</title>
+      <link>https://huggingface.co/blog/allenai/hybrid-token-prediction</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/allenai/hybrid-token-prediction</guid>
+      <pubDate>Thu, 25 Jun 2026 16:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 NVIDIA NeMo AutoModel 加速 Transformer 微调</title>
+      <link>https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel</guid>
+      <pubDate>Wed, 24 Jun 2026 16:00:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>FFASR 排行榜简介：现实世界中的 ASR 基准测试</title>
+      <link>https://huggingface.co/blog/ffasr-leaderboard</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/ffasr-leaderboard</guid>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 CUGA 构建真正的代理应用程序：轻量级工具上的两打工作示例</title>
+      <link>https://huggingface.co/blog/ibm-research/cuga-apps</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/ibm-research/cuga-apps</guid>
+      <pubDate>Tue, 23 Jun 2026 12:51:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>每周通过 AI、开放工具和人员参与交付 Huggingface_hub</title>
+      <link>https://huggingface.co/blog/huggingface-hub-release-ci</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/huggingface-hub-release-ci</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Transformers.js 中试验建议的跨域存储 API</title>
+      <link>https://huggingface.co/blog/cross-origin-storage</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/cross-origin-storage</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hushing Face 上的 PP-OCRv6：从 1.5M 到 34.5M 参数的 50 种语言 OCR</title>
+      <link>https://huggingface.co/blog/PaddlePaddle/pp-ocrv6</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/PaddlePaddle/pp-ocrv6</guid>
+      <pubDate>Mon, 22 Jun 2026 13:18:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们有本地模型免费对 OpenClaw 存储库进行分类！*</title>
+      <link>https://huggingface.co/blog/local-models-pr-triage</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/local-models-pr-triage</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MosaicLeaks：你的研究代理人能保守秘密吗？</title>
+      <link>https://huggingface.co/blog/ServiceNow/mosaicleaks</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/ServiceNow/mosaicleaks</guid>
+      <pubDate>Thu, 18 Jun 2026 18:13:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>超越LoRA：你能打败最流行的微调技术吗？</title>
+      <link>https://huggingface.co/blog/peft-beyond-lora</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/peft-beyond-lora</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否足够代理？在您自己的工具上对开放模型进行基准测试</title>
+      <link>https://huggingface.co/blog/is-it-agentic-enough</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/is-it-agentic-enough</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 Hugging Face Hub 到 Strands Agents 和 LeRobot 的机器人硬件</title>
+      <link>https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware</guid>
+      <pubDate>Wed, 17 Jun 2026 10:18:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLM-5.2：专为长期任务而设计</title>
+      <link>https://huggingface.co/blog/zai-org/glm-52-blog</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/zai-org/glm-52-blog</guid>
+      <pubDate>Wed, 17 Jun 2026 09:01:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>代理资源发现：让代理进行搜索</title>
+      <link>https://huggingface.co/blog/agentic-resource-discovery-launch</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/agentic-resource-discovery-launch</guid>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PyTorch 中的分析（第 2 部分）：从 nn.Linear 到融合 MLP</title>
+      <link>https://huggingface.co/blog/torch-mlp-fusion</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/torch-mlp-fusion</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>特工如何通过链接两个拥抱的面部空间来构建 3D 巴黎画廊</title>
+      <link>https://huggingface.co/blog/mishig/spaces-agents-md</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/mishig/spaces-agents-md</guid>
+      <pubDate>Tue, 09 Jun 2026 10:46:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 GitHub CI 迁移到 Hugging Face 作业</title>
+      <link>https://huggingface.co/blog/github-ci-hf-jobs</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/github-ci-hf-jobs</guid>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源社区支持 OpenEnv 用于 Agentic RL</title>
+      <link>https://huggingface.co/blog/openenv-agentic-rl</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/openenv-agentic-rl</guid>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nemotron 3.5 内容安全：全球企业人工智能的可定制多模式安全</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety</guid>
+      <pubDate>Thu, 04 Jun 2026 18:57:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 hf CLI 设计为与 Hub 配合使用的代理优化方式</title>
+      <link>https://huggingface.co/blog/hf-cli-for-agents</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/hf-cli-for-agents</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>超越聊天机器人的直接偏好优化</title>
+      <link>https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots</guid>
+      <pubDate>Wed, 03 Jun 2026 12:55:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 MCP 工具添加到 Reachy Mini</title>
+      <link>https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Holo3.1：快速且本地计算机使用代理</title>
+      <link>https://huggingface.co/blog/Hcompany/holo31</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/Hcompany/holo31</guid>
+      <pubDate>Tue, 02 Jun 2026 14:13:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mellum2 简介：JetBrains 的 12B 专家混合模型</title>
+      <link>https://huggingface.co/blog/JetBrains/mellum2-launch</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/JetBrains/mellum2-launch</guid>
+      <pubDate>Mon, 01 Jun 2026 15:45:17 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
