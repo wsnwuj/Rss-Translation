@@ -39,3 +39,5 @@
  - source045 [https://huggingface.co/blog/feed.xml](https://huggingface.co/blog/feed.xml) -> [Hugging Face Blog](rss/Hugging%20Face%20Blog.xml)
  - source046 [https://ods.od.nih.gov/News/ODS_News.xml](https://ods.od.nih.gov/News/ODS_News.xml) -> [NIH ODS Blog](rss/NIH%20ODS%20Blog.xml)
  - source047 [https://efsa.onlinelibrary.wiley.com/feed/journal/18314732/rss](https://efsa.onlinelibrary.wiley.com/feed/journal/18314732/rss) -> [EFSA Journal (RSS)](rss/EFSA%20Journal%20%28RSS%29.xml)
+ - source048 [https://www.nature.com/nature.rss](https://www.nature.com/nature.rss) -> [Nature](rss/Nature.xml)
+ - source049 [https://www.sciencedaily.com/rss/all.xml](https://www.sciencedaily.com/rss/all.xml) -> [ScienceDaily](rss/ScienceDaily.xml)
