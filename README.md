@@ -24,3 +24,7 @@
  - source030 [https://www.nih.gov/news-events/news-releases/feed](https://www.nih.gov/news-events/news-releases/feed) -> [NIH News](rss/NIH%20News.xml)
  - source031 [https://www.who.int/rss-feeds/news-english.xml](https://www.who.int/rss-feeds/news-english.xml) -> [WHO News](rss/WHO%20News.xml)
  - source032 [https://www.health.harvard.edu/rss](https://www.health.harvard.edu/rss) -> [Harvard Health](rss/Harvard%20Health.xml)
+ - source033 [https://pubmed.ncbi.nlm.nih.gov/rss/journals/rephealth.xml](https://pubmed.ncbi.nlm.nih.gov/rss/journals/rephealth.xml) -> [PubMed Reproductive Health](rss/PubMed%20Reproductive%20Health.xml)
+ - source034 [https://pubmed.ncbi.nlm.nih.gov/rss/journals/antioxidants.xml](https://pubmed.ncbi.nlm.nih.gov/rss/journals/antioxidants.xml) -> [PubMed Antioxidants](rss/PubMed%20Antioxidants.xml)
+ - source035 [https://www.nature.com/subjects/health/rss](https://www.nature.com/subjects/health/rss) -> [Nature News](rss/Nature%20News.xml)
+ - source036 [https://nutritionfacts.org/feed/](https://nutritionfacts.org/feed/) -> [NutritionFacts](rss/NutritionFacts.xml)
